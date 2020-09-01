@@ -1,2 +1,2 @@
 # datasciencecoursera
-Final project due for submissiong
+Final project due for submission
